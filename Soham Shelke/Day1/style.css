@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    background-color: rgb(30, 149, 239);
+    padding: 30px;
+    color: rgb(123, 27, 218);
+}
+a{
+    color: rgb(7, 5, 55);
+    padding: 50px;
+}
+marquee{
+    font-size: 20px;
+}
+.details{
+    text-align: center;
+    font-size: 28px;
+    text-decoration: none;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.detail2{
+    text-align: center;
+    color: rgb(90, 39, 174);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 15px;
+
+}
